@@ -9,7 +9,7 @@ Install with <b>npm install</b> and start with <b>npm run dev</b>.
 </br>
 
 <h2>👀 Preview</h2>
-<p align="center"><a href="https://markdown-previewer-lime.vercel.app/">https://markdown-previewer-lime.vercel.app/</a></p>
+<a href="https://markdown-previewer-lime.vercel.app/">https://markdown-previewer-lime.vercel.app/</a>
 
 </br>
 
