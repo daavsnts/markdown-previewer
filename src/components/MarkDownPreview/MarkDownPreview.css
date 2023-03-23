@@ -1,0 +1,10 @@
+#preview {
+    padding: 0% 2% 0% 2%;
+    width: 50%;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+#preview img {
+    max-width: 90%;
+}

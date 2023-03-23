@@ -1,0 +1,8 @@
+#editor {
+    padding: 2%;
+    width: 50%;
+    overflow-y: auto;
+    resize: none;
+    height: 100%;
+    font-size: 1rem;
+}
