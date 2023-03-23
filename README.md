@@ -1,15 +1,15 @@
 <h1>markdown-previewer</h1>
-<p>Markdown previewer built with React using Vite.</br>
+<p>Markdown previewer built with React using Vite.</p></br>
 
 </br>
 
 <h2>📦 Installing</h2>
-Install with <b>npm install</b> and start with <b>npm run dev</b>.
+<p>Install with <b>npm install</b> and start with <b>npm run dev</b>.</p>
 
 </br>
 
 <h2>👀 Preview</h2>
-<a href="https://markdown-previewer-lime.vercel.app/">https://markdown-previewer-lime.vercel.app/</a>
+<p><a href="https://markdown-previewer-lime.vercel.app/">https://markdown-previewer-lime.vercel.app/</a></p>
 
 </br>
 
