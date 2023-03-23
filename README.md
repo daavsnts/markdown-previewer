@@ -1,5 +1,5 @@
-<h1 align="center">markdown-previewer</h1>
-<p align="center">Markdown previewer built with React using Vite.</br>
+<h1>markdown-previewer</h1>
+<p>Markdown previewer built with React using Vite.</br>
 
 </br>
 
