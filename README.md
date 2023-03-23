@@ -1,2 +1,2 @@
 # markdown-previewer
-Markdown previewer built with React.
+Markdown previewer built with React using Vite.
