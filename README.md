@@ -1,8 +1,6 @@
 <h1>markdown-previewer</h1>
 <p>Markdown previewer built with React using Vite.</p></br>
 
-</br>
-
 <h2>📦 Installing</h2>
 <p>Install with <b>npm install</b> and start with <b>npm run dev</b>.</p>
 
